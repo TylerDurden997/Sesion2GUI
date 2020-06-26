@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Sesion2GUI</string>
+    <string name="titulo">Formulario de registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="cedula">Cédula</string>
+    <string name="Email">Correo Electrónico</string>
+    <string name="clave">Contraseña</string>
+    <string name="rep_clave">Repita Contraseña</string>
+    <string name="guardar">Enviar</string>
+    <string name="error_claves">Las contraseñas no coinciden</string>
+    <string name="genero">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="cine">Cine</string>
+    <string name="pss">PS4</string>
+    <string name="series">Series</string>
+    <string name="cuidad_nacimiento">Cuidad de nacimiento</string>
+    <string name="fecha_nacimiento">mm/dd/yyyy</string>
+    <string name="fecha_nacimiento_lb">Fecha de Nacimiento</string>
+    <string name="otra_actividad">Otra actividad</string>
+    <string name="otra_actividad_mas">Otra acticidad1</string>
+
+    <string-array name="lista_cuidades">
+        <item>Bógota</item>
+        <item>Barranquilla</item>
+        <item>Cali</item>
+        <item>Medellín</item>
+    </string-array>
+</resources>
